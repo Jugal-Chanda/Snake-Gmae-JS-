@@ -1,3 +1,3 @@
 # Snake Gmae Using Javascript
-This is snake game
-Here any one can can play snake gmae by downloading index.html and snake.js files
+This is snake game.
+Any one can can play snake gmae by downloading index.html and snake.js files and run the index.html file on any browser...
