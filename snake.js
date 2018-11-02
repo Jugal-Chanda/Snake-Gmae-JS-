@@ -153,7 +153,7 @@ function draw_snake() {
 
     ctx.fillStyle = "#3333ff";
     ctx.font = "25px Changa one";
-    ctx.fillText("Dveloper : Jugal Kishore Chanda",5*box,23.6*box);
+    ctx.fillText("Developer : Jugal Kishore Chanda",5*box,23.6*box);
 }
 
 let game = setInterval(draw_snake,100);
